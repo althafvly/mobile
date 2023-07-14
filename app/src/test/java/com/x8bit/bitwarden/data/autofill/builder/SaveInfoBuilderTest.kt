@@ -275,6 +275,7 @@ private val COMPAT_BROWSERS: List<String> = listOf(
     "com.yjllq.kito",
     "com.yujian.ResideMenuDemo",
     "com.z28j.feel",
+    "foundation.e.browser",
     "idm.internet.download.manager",
     "idm.internet.download.manager.adm.lite",
     "idm.internet.download.manager.plus",
